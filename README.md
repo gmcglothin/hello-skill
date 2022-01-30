@@ -20,5 +20,10 @@ Andy McGlothin
 Information
 
 ## Tags
-#Hello friendly hi howdy greet greetings
+#Hello
+#friendly
+#hi 
+#howdy 
+#greet 
+#greetings
 
