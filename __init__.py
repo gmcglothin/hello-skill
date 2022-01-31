@@ -7,7 +7,7 @@ class Hello(MycroftSkill):
 
     @intent_file_handler('hello.intent')
     def handle_hello(self, message):
-        self.speak_dialog('hello')
+        self.speak_dialog('hello', expect_response=True)
 
 
 def create_skill():
